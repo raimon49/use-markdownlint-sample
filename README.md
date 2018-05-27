@@ -1,7 +1,7 @@
 # use-markdownlint-sample
 
 [![Build Status](https://travis-ci.org/raimon49/use-markdownlint-sample.svg?branch=master)](https://travis-ci.org/raimon49/use-markdownlint-sample)
-[![Dependency Status](https://gemnasium.com/badges/github.com/raimon49/use-markdownlint-sample.svg)](https://gemnasium.com/github.com/raimon49/use-markdownlint-sample)
+[![Known Vulnerabilities](https://snyk.io/test/github/raimon49/use-markdownlint-sample/badge.svg)](https://snyk.io/test/github/raimon49/use-markdownlint-sample)
 
 ## 解説記事
 
