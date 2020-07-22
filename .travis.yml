@@ -1,5 +1,5 @@
 language: ruby
 rvm:
-  - 2.4
+  - 2.6
 script:
   bundle exec mdl -s style.rb docs
