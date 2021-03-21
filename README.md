@@ -1,5 +1,6 @@
 # use-markdownlint-sample
 
+[![Ruby](https://github.com/raimon49/use-markdownlint-sample/actions/workflows/ruby.yml/badge.svg)](https://github.com/raimon49/use-markdownlint-sample/actions/workflows/ruby.yml)
 [![Build Status](https://travis-ci.org/raimon49/use-markdownlint-sample.svg?branch=master)](https://travis-ci.org/raimon49/use-markdownlint-sample)
 [![Known Vulnerabilities](https://snyk.io/test/github/raimon49/use-markdownlint-sample/badge.svg)](https://snyk.io/test/github/raimon49/use-markdownlint-sample)
 
